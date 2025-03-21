@@ -1,4 +1,3 @@
-Ecco la traduzione richiesta con i comandi:
 
 Install Python 3.x
 Launch Command Prompt as administrator
